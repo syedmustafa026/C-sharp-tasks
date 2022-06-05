@@ -12,6 +12,7 @@ static  void Main()
     {
         Console.WriteLine(error);
     }
+    
     finally
     {
         // statements to be executed
